@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 this is a test txt
 wwwwwww3
+=======
+2 is a test txt
+wwwwwww
+
+dddd
+>>>>>>> refs/remotes/origin/master
