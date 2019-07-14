@@ -1,14 +1,12 @@
-<<<<<<< HEAD
+
 this is a test txt
 wwwwwww3
-=======
+
 2 is a test txt
 wwwwwww
 
 dddd
-<<<<<<< HEAD
+
 
 sourcetreeapp.com
-=======
->>>>>>> refs/remotes/origin/master
->>>>>>> hhhh/master
+
